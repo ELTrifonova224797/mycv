@@ -15,10 +15,12 @@ body {
 
 .resume-header {
     background-color: #86EBB5;
+	color: darkgreen;
 }
 
 .resume-main {
 	background-color: #90AAEA;
+	color: darkblue;
 }
 
 .resume-aside {
